@@ -40,8 +40,7 @@ smart_waste_management/
 │       ├── Paper/
 │       └── Metal/              # Training images sorted by class
 │
-├── docs/
-│   └── (screenshots, banners...) # (Optional) Project visuals for readme/demo
+│   
 │
 └── README.md
 ```
